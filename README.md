@@ -1,5 +1,5 @@
 # Andriod-Tictactoe
-![alt text](https://raw.githubusercontent.com/rlawton2/Andriod-Tictactoe/master/ScreenShot.png)
+![alt text](https://raw.githubusercontent.com/rlawton2/Andriod-Tictactoe/master/ScreenShot.PNG)
 
 ## Description
 
