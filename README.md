@@ -1,5 +1,5 @@
 # Andriod-Tictactoe
-![alt text](https://raw.githubusercontent.com/rlawton2/Design-Patterns/master/Banner3.png)
+![alt text](https://raw.githubusercontent.com/rlawton2/Andriod-Tictactoe/master/ScreenShot.png)
 
 ## Description
 
